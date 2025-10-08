@@ -9,6 +9,21 @@ Security is about **reducing risk**, not eliminating it.
 
 ---
 
+#### 🛑 OPERATIONAL SECURITY (OPSEC) & LEGAL NOTICE 🛑
+READ THIS FIRST. This section supersedes all other documentation.
+
+This toolkit, including all rules, fingerprints, and simulation scripts, is provided EXCLUSIVELY for educational, research, and defensive purposes.
+
+#### ABSOLUTELY NO OFFENSIVE USE IS PERMITTED.
+
+- Legal Authority is MANDATORY: You must have explicit, written, and verifiable legal authority and proper authorization from the network owner before performing any monitoring, testing, or analysis on any target network, especially those associated with government or corporate entities.
+- Strictly Defensive: This repository is intended for defending networks you are authorized to protect, such as your organization's infrastructure or personal research labs.
+- Consequences: Unauthorized access, monitoring, or testing is illegal and can lead to severe civil and criminal penalties, including imprisonment.
+
+By using this repository, you acknowledge and agree that you are solely responsible for adhering to all applicable laws and regulations. The project contributors are not liable for any misuse or damage caused by this toolkit.
+
+**Think before you type!**
+
 ## **Table of Contents**
 
 1. [Disclaimer](#disclaimer)
