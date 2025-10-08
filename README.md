@@ -48,6 +48,9 @@ By using this repository, you acknowledge and agree that you are solely responsi
 
 
 
+
+
+
 ---
 
 ### **1. Background & Mission**
@@ -250,6 +253,8 @@ level: high
 - Suricata with `ja3` keyword
 - Zeek with `JA3` script
 - Custom Python: `pip install ja3er`
+
+Advanced usage needed? Have a look on [ja3_ja4_guide.md](ja3_ja4_guide.md)
 
 ---
 
