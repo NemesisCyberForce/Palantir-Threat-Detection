@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Note for Devs. sorry no full concept, cause dont want to build a weapon! 
+# See *-workflow.md for more stuff!
 """
 Palantir Threat Detection Tool
 Checks for beacons and white-label surveillance indicators
