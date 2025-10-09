@@ -420,4 +420,6 @@ Your star helps us help more people. Thank you!
 ---
 
 ## **Credits**
-Mr. Chess!
+[Volkan Sah](https://github.com/volkansah)
+
+have a look on [PoisonIvory](https://github.com/VolkanSah/PoisonIvory/tree/Nemesis-Nuclear-v.1.3.1) a creative script for Offensive Actions (NOT A FULL APP!)
