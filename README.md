@@ -1,26 +1,27 @@
-# Palantir Threat Detection 
+# Palantir Threat Detection
 #### Open SIEM Labs with Sigma Rules
 
 ### **Disclaimer**
 
-This repository is intended **for educational and research purposes only**.
-It is **not** a 100% protection against Palantir-related activity or any other advanced threats.
-Security is about **reducing risk**, not eliminating it.
+This repository is strictly for **educational, research, and defensive purposes only**.
+It is NOT a guarantee of security. Cybersecurity is about **reducing risk**, not eliminating it.
+The core schematics for understanding the logic are in `README.md`.
+Source files and advanced tools are separated for **expert use only**, prioritizing responsible learning over potential misuse.
 
 ---
 
 #### 🛑 OPERATIONAL SECURITY (OPSEC) & LEGAL NOTICE 🛑
-READ THIS FIRST. This section supersedes all other documentation.
+**READ THIS FIRST. This section supersedes all other documentation.**
 
-This toolkit, including all rules, fingerprints, and simulation scripts, is provided EXCLUSIVELY for educational, research, and defensive purposes.
+This toolkit, including all rules, fingerprints, and simulation scripts, is provided EXCLUSIVELY for **defensive use on networks you are legally authorized to protect.**
 
 #### ABSOLUTELY NO OFFENSIVE USE IS PERMITTED.
 
-- Legal Authority is MANDATORY: You must have explicit, written, and verifiable legal authority and proper authorization from the network owner before performing any monitoring, testing, or analysis on any target network, especially those associated with government or corporate entities.
-- Strictly Defensive: This repository is intended for defending networks you are authorized to protect, such as your organization's infrastructure or personal research labs.
-- Consequences: Unauthorized access, monitoring, or testing is illegal and can lead to severe civil and criminal penalties, including imprisonment.
+**Legal Authority is MANDATORY:** Before any monitoring, testing, or analysis, you must possess **explicit, written, and verifiable legal authority** from the network owner.
 
-By using this repository, you acknowledge and agree that you are solely responsible for adhering to all applicable laws and regulations. The project contributors are not liable for any misuse or damage caused by this toolkit.
+**Consequences:** Unauthorized access, monitoring, or testing is strictly illegal and will lead to severe civil and criminal penalties, including imprisonment.
+
+By using this repository, you agree you are solely responsible for adhering to all applicable laws and regulations. The project contributors are not liable for any misuse or damage caused by this toolkit.
 
 **Think before you type!**
 
