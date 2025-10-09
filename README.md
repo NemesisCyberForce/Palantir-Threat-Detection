@@ -32,8 +32,8 @@ By using this repository, you acknowledge and agree that you are solely responsi
 4. [Setup Options](#3-setup-options)
 5. [Installing Sigma Tools](#4-installing-sigma-tools)
 6. [Known White-Label Implementations](#5-known-white-label-implementations)
-7. [Detection Labs](#6-detection-labs)
-8. [TLS Fingerprinting](#7-tls-fingerprinting-with-ja3ja4)
+7. [Detection Labs](#6-detection-labs) 
+8. [TLS Fingerprinting](#7-tls-fingerprinting-with-ja3ja4)  +  [JA3/JA4](ja3_ja4_guide.md)
 9. [Sigma Rule Generator](#8-sigma-rule-generator)
 10. [Test Data Simulation](#9-test-data-simulation)
 11. [BSI-Compliant Hardening](#10-bsi-compliant-hardening-guide)
@@ -45,6 +45,9 @@ By using this repository, you acknowledge and agree that you are solely responsi
 17. [Operational Security Notice](#operational-security-opsec-notice)
 18. [Support This Project](#support-this-project)
 19. [Credits](#credits)
+
+##### Example Workflows: 
+[Continuous Monitoring Implementation Mode](examples_worklows..md)
 
 
 
