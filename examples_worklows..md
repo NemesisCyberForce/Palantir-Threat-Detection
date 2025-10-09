@@ -1,5 +1,5 @@
 # Continuous Monitoring Implementation Mode
-
+##### experts only
 We are replacing the functions `collect_network_data` and `run_full_scan` with a **Monitoring Loop** that runs every 30 seconds and checks the **active connections** of the endpoint.
 
 ## 1. Structural Changes in `PalantirDetector`
